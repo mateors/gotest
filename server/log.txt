@@ -1,0 +1,12 @@
+2022/04/01 20:00:06 main.go:111: ERROR - is not a number!
+2022/04/01 20:00:07 main.go:111: ERROR - is not a number!
+2022/04/01 20:00:07 main.go:111: ERROR - is not a number!
+2022/04/01 20:00:07 main.go:111: ERROR - is not a number!
+2022/04/01 20:00:07 main.go:111: ERROR - is not a number!
+2022/04/01 20:00:08 main.go:111: ERROR - is not a number!
+2022/04/01 20:00:08 main.go:111: ERROR - is not a number!
+2022/04/01 20:00:08 main.go:111: ERROR - is not a number!
+2022/04/01 20:35:22 service.go:111: ERROR - is not a number!
+2022/04/01 22:11:29 service.go:112: ERROR * is not a number
+2022/04/01 22:13:07 service.go:112: ERROR * is not a number
+2022/04/01 22:14:50 service.go:112: ERROR * is not a number
