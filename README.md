@@ -1,5 +1,6 @@
 # golang test
 
+```
 1. repository layer:
 should call https://gitlab.com/api/graphql
 with query (where $n is param)
@@ -29,6 +30,7 @@ For the service repository layer, if you are not familiar with GraphQL, mock it 
 (optional) 5. handling of the environment variables (e.g. Token for GraphQL endpoint, etc)
 (optional) 6. good logging 
 
+```
 ## Step-1
 run the server first
 
