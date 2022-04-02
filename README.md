@@ -33,6 +33,18 @@ For the service repository layer, if you are not familiar with GraphQL, mock it 
 ```
 ## Step-1
 run the server first
+> cd /server
+
+> go build
+
+> ./service
+
+> go test -v
 
 ## Step-2
 run the client
+> cd /client
+
+> go build
+
+> ./client
