@@ -33,7 +33,7 @@ For the service repository layer, if you are not familiar with GraphQL, mock it 
 ```
 ## Step-1
 run the server first
-> cd /server
+> cd server
 
 > go build
 
@@ -43,7 +43,7 @@ run the server first
 
 ## Step-2
 run the client
-> cd /client
+> cd client
 
 > go build
 
